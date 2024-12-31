@@ -113,5 +113,3 @@ Contributions are welcome! If you'd like to improve this project, feel free to o
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
-
-This Markdown will render correctly on GitHub and display everything in a structured, well-formatted way. Make sure to save it as `README.md` in your project folder.
